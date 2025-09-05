@@ -1,0 +1,15 @@
+{
+  "name": "bigx-sdk",
+  "version": "1.0.0",
+  "description": "Official BigX Payment Gateway SDK for Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/webhook.test.js"
+  },
+  "keywords": ["bigx", "crypto", "payment", "gateway", "sdk"],
+  "author": "BigX Team",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
